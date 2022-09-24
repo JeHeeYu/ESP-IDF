@@ -10,4 +10,5 @@
 <br>
 <b>Return</b>
 <br>
-　　ESP_OK : WiFi Intialize 성공
+　　mqtt_client_handle : MQTT Intialize 성공
+　　NULL : MQTT Initialize 실패
